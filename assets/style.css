@@ -42,7 +42,7 @@ a {
 }
 
 a:hover {
-    text-decoration: underline; 
+    text-decoration: underline;
 }
 
 .title {
@@ -56,6 +56,11 @@ a:hover {
 
 .title span {
     font-weight: 400;
+}
+
+.r-span {
+    font-weight: normal;
+    float: right;
 }
 
 .bear::before {
@@ -89,6 +94,10 @@ input:not([type="submit"]) {
 .nav-image {
     height: 3.14rem;
     border-radius: 12.5%;
+}
+
+.nav-right {
+    float: right;
 }
 
 textarea:required,
@@ -276,7 +285,6 @@ ul.discover-posts li small a {
     color: #777 !important;
 }
 
-
 @media (prefers-color-scheme: dark) {
     body {
         background-color: #01242e;
@@ -316,7 +324,6 @@ ul.discover-posts li small a {
 }
 
 
-
 ul.blog-posts {
     padding-bottom: 0.61803rem;
 }
@@ -334,7 +341,6 @@ hr {
 }
 
 body:hover {
-    border-image: ;
     border-width: 0;
 }
 

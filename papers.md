@@ -5,7 +5,7 @@ description: My papers
 permalink: /papers
 ---
 
-## Evaluating Uncertainty Quantification for Bird’s Eye View Semantic Segmentation
+### Evaluating Uncertainty Quantification for Bird’s Eye View Semantic Segmentation
 **Bowen Yang**, Linlin Yu, Tianhao Wang, Changbin Li, Feng Chen.  \
 Published and presented at [*ACM UDM'KDD 2023*](https://charliezhaoyinpeng.github.io/UDM-KDD23/)
 
@@ -14,7 +14,7 @@ Published and presented at [*ACM UDM'KDD 2023*](https://charliezhaoyinpeng.githu
 
 ---
 
-## Camera-view Supervision for Bird's-Eye-View Semantic Segmentation
+### Camera-view Supervision for Bird's-Eye-View Semantic Segmentation
 **Bowen Yang**, Linlin Yu, Feng Chen.  \
 *Manuscript submitted and under review*
 
@@ -23,7 +23,7 @@ Published and presented at [*ACM UDM'KDD 2023*](https://charliezhaoyinpeng.githu
 
 ---
 
-## Uncertainty-Focused Semantic Segmentation in BEV for Autonomous Systems: Methods and Benchmarks
+### Uncertainty-Focused Semantic Segmentation in BEV for Autonomous Systems: Methods and Benchmarks
 **Bowen Yang\***, Linlin Yu\*, Tianhao Wang, Feng Chen. \
 *\* denotes equal contribution* \
 *Manuscript submitted and under review*
