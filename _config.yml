@@ -37,6 +37,7 @@ future: false
 Blog: /blog
 
 links:
+  Projects: /projects
   Papers: /papers
   Resume: /assets/resume.pdf
 
